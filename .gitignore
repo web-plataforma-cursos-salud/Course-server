@@ -1,0 +1,7 @@
+node_modules
+public
+build
+temp/
+package-lock.json
+.env
+.env.example
